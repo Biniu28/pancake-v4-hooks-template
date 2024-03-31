@@ -4,7 +4,7 @@
 
 ## Prerequisite
 
-1. Install foundry, see https://book.getfoundry.sh/getting-started/installation
+1. Install foundry,  https://book.getfoundry.sh/getting-started/installation
 
 ## Running test
 
